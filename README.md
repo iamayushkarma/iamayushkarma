@@ -8,6 +8,7 @@ I’m a full-stack developer who likes building things that are fast, simple to 
 - Building strong React and Next.js foundations  
 - Creating more full-stack projects  
 - Exploring AI features in practical apps  
+- Strengthening Data Structures and Algorithms in Java  
 
 ---
 
