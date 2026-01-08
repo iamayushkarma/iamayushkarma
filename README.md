@@ -15,4 +15,6 @@ I'm a full-stack developer and I write code that works.
 ## 📫 Connect With Me  
 
 **Email:** ayushkarma.dev@gmail.com  
-**GitHub:** https://github.com/iamayushkarma
+**LinkedIn:** https://www.linkedin.com/in/iamayushkarma
+**GitHub:** https://github.com/iamayushkarma  
+**LeetCode:** https://www.leetcode.com/u/iamayushkarma
