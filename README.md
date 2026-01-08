@@ -13,7 +13,6 @@ I'm a full-stack developer and I write code that works.
 ---
 
 ## 📫 Connect With Me  
-
 **Email:** ayushkarma.dev@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/iamayushkarma
 **GitHub:** https://github.com/iamayushkarma  
