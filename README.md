@@ -23,7 +23,7 @@ I'm a full-stack developer and I write code that works.
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=iamayushkarma&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
   <img src="https://streak-stats.demolab.com?user=iamayushkarma&theme=tokyonight&hide_border=true" height="170" />
 </div>
@@ -41,16 +41,16 @@ I'm a full-stack developer and I write code that works.
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/iamayushkarma">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/iamayushkarma" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/iamayushkarma">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/iamayushkarma" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.leetcode.com/u/iamayushkarma">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://www.leetcode.com/u/iamayushkarma" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
   </a>
-  <a href="mailto:ayushkarma.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:ayushkarma.dev@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
