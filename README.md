@@ -16,7 +16,7 @@ I'm a full-stack developer and I write code that works.
 ## 🛠️ Some Tech I Work With
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,java,html,css,tailwind,mongodb,mysql,firebase,redux,git,github,postman,vercel,netlify&perline=12" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,java,html,css,tailwind,mongodb,mysql,firebase,redux,git,github,postman,vercel,netlify&perline=12" />
 </p>
 
 ---
