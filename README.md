@@ -24,7 +24,7 @@ I'm a full-stack developer and I write code that works.
 ## 📊 GitHub Stats
 
 <div align="left">
-    <img src="https://streak-stats.demolab.com?user=iamayushkarma&theme=tokyonight&hide_border=true" height="170" />
+    <img src="https://streak-stats.demolab.com?user=iamayushkarma&theme=tokyonight&hide_border=true&v=2" height="170" />
 </div>
 
 ---
