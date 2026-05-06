@@ -1,7 +1,6 @@
 # 👋 Hey, I'm Ayush Karma
 
 I'm a full-stack developer and I write code that works.
-![](https://komarev.com/ghpvc/?username=iamayushkarma&color=blue)
 ---
 
 ## 🚀 What I'm Focusing On
