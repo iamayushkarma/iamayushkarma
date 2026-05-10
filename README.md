@@ -21,16 +21,6 @@ I'm a full-stack developer and I write code that works.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats-xi-ruby-23.vercel.app/api?username=iamayushkarma&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-xi-ruby-23.vercel.app/api/top-langs/?username=iamayushkarma&layout=compact&theme=tokyo-night&hide_border=true" height="170" />
-</div>
-
----
-
 ## 🔥 Streak Stats
 
 <div align="left">
