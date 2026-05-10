@@ -24,9 +24,9 @@ I'm a full-stack developer and I write code that works.
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamayushkarma&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats-xi-ruby-23.vercel.app/api?username=iamayushkarma&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true&include_all_commits=true" height="170" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamayushkarma&layout=compact&theme=tokyo-night&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-xi-ruby-23.vercel.app/api/top-langs/?username=iamayushkarma&layout=compact&theme=tokyo-night&hide_border=true" height="170" />
 </div>
 
 ---
@@ -34,7 +34,7 @@ I'm a full-stack developer and I write code that works.
 ## 🔥 Streak Stats
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=iamayushkarma&theme=tokyo-night&hide_border=true&cache_seconds=86400" height="170" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=iamayushkarma&theme=tokyo-night&hide_border=true&include_all_commits=true" height="170" />
 </div>
 
 ---
@@ -42,7 +42,7 @@ I'm a full-stack developer and I write code that works.
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamayushkarma&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamayushkarma&theme=tokyo-night&hide_border=true&include_all_commits=true" />
 </div>
 
 ---
