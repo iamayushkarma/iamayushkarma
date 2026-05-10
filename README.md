@@ -34,7 +34,7 @@ I'm a full-stack developer and I write code that works.
 ## 🔥 Streak Stats
 
 <div align="left">
-  <img src="https://nirzak-streak-stats.vercel.app?user=iamayushkarma&theme=tokyo-night&hide_border=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamayushkarma&theme=tokyo-night&hide_border=true" height="170" />
 </div>
 
 ---
