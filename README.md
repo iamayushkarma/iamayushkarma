@@ -1,14 +1,15 @@
 # 👋 Hey, I'm Ayush Karma
 
 I'm a full-stack developer and I write code that works.
+
 ---
 
 ## 🚀 What I'm Focusing On
 
--  Building strong React and Next.js foundations
--  Creating more full-stack projects
--  Exploring AI features in practical apps
--  Strengthening Data Structures and Algorithms in Java
+- Building strong React and Next.js foundations
+- Creating more full-stack projects
+- Exploring AI features in practical apps
+- Strengthening Data Structures and Algorithms in Java
 
 ---
 
@@ -23,7 +24,17 @@ I'm a full-stack developer and I write code that works.
 ## 📊 GitHub Stats
 
 <div align="left">
-    <img src="https://streak-stats.demolab.com?user=iamayushkarma&theme=tokyonight&hide_border=true&v=2" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamayushkarma&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamayushkarma&layout=compact&theme=tokyo-night&hide_border=true" height="170" />
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=iamayushkarma&theme=tokyo-night&hide_border=true&cache_seconds=86400" height="170" />
 </div>
 
 ---
@@ -39,16 +50,19 @@ I'm a full-stack developer and I write code that works.
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/iamayushkarma" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/iamayushkarma">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/iamayushkarma" style="text-decoration: none;">
+  &nbsp;
+  <a href="https://github.com/iamayushkarma">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.leetcode.com/u/iamayushkarma" style="text-decoration: none;">
+  &nbsp;
+  <a href="https://www.leetcode.com/u/iamayushkarma">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
   </a>
-  <a href="mailto:ayushkarma.dev@gmail.com" style="text-decoration: none;">
+  &nbsp;
+  <a href="mailto:ayushkarma.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
