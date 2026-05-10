@@ -21,14 +21,6 @@ I'm a full-stack developer and I write code that works.
 
 ---
 
-## 🔥 Streak Stats
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=iamayushkarma&theme=tokyo-night&hide_border=true&count_private=true" height="170" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
