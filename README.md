@@ -31,7 +31,7 @@ I'm a full-stack developer and I write code that works.
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="">
   <a href="https://www.linkedin.com/in/iamayushkarma">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
