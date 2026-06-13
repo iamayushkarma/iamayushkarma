@@ -23,11 +23,7 @@ I'm a full-stack developer and I write code that works.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamayushkarma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
+<p align="right">
   <img height="180em" src="https://streak-stats.demolab.com?user=iamayushkarma&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamayushkarma&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
