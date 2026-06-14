@@ -1,10 +1,10 @@
-# 👋 Hey, I'm Ayush Karma
+# Hey, I'm Ayush Karma
 
 I'm a full-stack developer and I write code that works.
 
 ---
 
-## 🚀 What I'm Focusing On
+## What I'm Focusing On
 
 - Building strong React and Next.js foundations
 - Creating more full-stack projects
@@ -13,7 +13,7 @@ I'm a full-stack developer and I write code that works.
 
 ---
 
-## 🛠️ Some Tech I Work With
+## Some Tech I Work With
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,java,html,css,tailwind,mongodb,mysql,firebase,redux,git,github,postman,vercel,netlify&perline=12" />
@@ -21,7 +21,7 @@ I'm a full-stack developer and I write code that works.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="left">
   <img height="180em" src="https://streak-stats.demolab.com?user=iamayushkarma&theme=tokyonight&hide_border=true" />
@@ -30,7 +30,7 @@ I'm a full-stack developer and I write code that works.
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamayushkarma&theme=tokyo-night&hide_border=true" />
@@ -38,7 +38,7 @@ I'm a full-stack developer and I write code that works.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/iamayushkarma">
