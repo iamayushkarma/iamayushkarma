@@ -1,15 +1,15 @@
 # Hey, I'm Ayush Karma
 
-I'm a full-stack developer and I write code that works.
+I'm a full-stack developer, and I write code that works pretty well.
 
 ---
 
-## What I'm Focusing On
+## A Little About Me
 
-- Building strong React and Next.js foundations
-- Creating more full-stack projects
-- Exploring AI features in practical apps
-- Strengthening Data Structures and Algorithms in Java
+- Learning is one of my favorite hobbies
+- Discovering what to learn next is another one
+- Creating things from scratch is always exciting to me
+- I never say no to a game of football
 
 ---
 
