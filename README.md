@@ -33,7 +33,7 @@ I'm a full-stack developer, and I write code that works pretty well.
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamayushkarma&theme=github-dark&area=true&radius=16&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamayushkarma&theme=github-dark&area=true&radius=16&hide_border=true&days=31" />
 </div>
 
 ---
