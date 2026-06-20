@@ -32,10 +32,75 @@ I'm a full-stack developer, and I write code that works pretty well.
 
 ## Contribution Graph
 
+## Contribution Graph Variations
+
+<!-- 1. Tokyo Night -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamayushkarma&theme=tokyo-night&hide_border=true" />
 </div>
 
+---
+
+<!-- 2. Tokyo Night + Area -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamayushkarma&theme=tokyo-night&area=true&hide_border=true" />
+</div>
+
+---
+
+<!-- 3. Tokyo Night + Area + Radius -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamayushkarma&theme=tokyo-night&area=true&radius=16&hide_border=true" />
+</div>
+
+---
+
+<!-- 4. GitHub Dark -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamayushkarma&theme=github-dark&hide_border=true" />
+</div>
+
+---
+
+<!-- 5. React Dark -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamayushkarma&theme=react-dark&hide_border=true" />
+</div>
+
+---
+
+<!-- 6. Dracula -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamayushkarma&theme=dracula&hide_border=true" />
+</div>
+
+---
+
+<!-- 7. One Dark -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamayushkarma&theme=one-dark&hide_border=true" />
+</div>
+
+---
+
+<!-- 8. Night Owl -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamayushkarma&theme=nightowl&hide_border=true" />
+</div>
+
+---
+
+<!-- 9. High Contrast -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamayushkarma&theme=high-contrast&hide_border=true" />
+</div>
+
+---
+
+<!-- 10. Modern Premium -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamayushkarma&theme=tokyo-night&area=true&radius=20&hide_border=true" />
+</div>
 ---
 
 ## Connect With Me
