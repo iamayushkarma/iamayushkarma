@@ -24,7 +24,7 @@ I'm a full-stack developer, and I write code that works pretty well.
 ## GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://streak-stats.demolab.com?user=iamayushkarma&theme=tokyonight&hide_border=true&v=3" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=iamayushkarma&theme=tokyonight&hide_border=true&v=2" />
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=iamayushkarma&layout=compact&theme=tokyonight&hide_border=true&v=007" />
 </p>
 
