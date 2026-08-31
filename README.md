@@ -35,7 +35,7 @@ I'm a full-stack developer, and I write code that works pretty well.
 <div align="center">
   <img
     width="1200"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=iamayushkarma&theme=github-dark&area=true&radius=16&hide_border=true"
+    src="https://https//github-readme-activity-graph-one-theta.vercel.app/graph?username=iamayushkarma&theme=github-dark&area=true&radius=16&hide_border=true"
   />
 </div>
 
