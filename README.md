@@ -1,6 +1,6 @@
 # Hey, I'm Ayush Karma
 
-I'm a full-stack developer, and I write code that works pretty well
+I'm a full-stack developer, and I write code that works pretty well.
 
 ---
 
